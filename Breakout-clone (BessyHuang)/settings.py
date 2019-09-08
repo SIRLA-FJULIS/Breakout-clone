@@ -1,0 +1,13 @@
+DISPLAY_WIDTH = 800
+DISPLAY_HEIGHT = 600
+TITLE = "滑鼠操控的打磚塊遊戲"
+FPS = 60
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (200, 0, 0)
+LIGHT_RED = (255, 0, 0)
+YELLOW = (255, 255, 0)
+GREEN = (0, 200, 0)
+LIGHT_GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
